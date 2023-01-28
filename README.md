@@ -1,1 +1,10 @@
-# O-Dia-a-Dia-de-um-QA-A-Pr-tica-de-Testes-Manuais-Funcionais
+@@ -1,6 +1,7 @@
+# O dia a dia de um QA - A prática de testes manuais funcionais
+
+Conforme solicitado, este projeto inclui:
+✔ Plano de fluxo de trabalho desenvolvido e o ciclo de vida do bug;
+✔ Mind Map de pelo menos uma user story; 
+✔ Duas user stories pensadas pelo aluno;
+✔ Dois casos de teste utilizando a técnica step-by-step;
+✔ Dois casos de teste utilizando BDD.@@ -1,6 +1,7 @@
+# O dia a dia de um QA - A prática de testes manuais funcionais
