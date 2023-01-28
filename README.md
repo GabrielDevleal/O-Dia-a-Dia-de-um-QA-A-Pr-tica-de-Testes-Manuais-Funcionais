@@ -7,4 +7,3 @@ Conforme solicitado, este projeto inclui:
 ✔ Duas user stories pensadas pelo aluno;
 ✔ Dois casos de teste utilizando a técnica step-by-step;
 ✔ Dois casos de teste utilizando BDD.@@ -1,6 +1,7 @@
-# O dia a dia de um QA - A prática de testes manuais funcionais
